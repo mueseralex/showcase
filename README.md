@@ -7,7 +7,7 @@ README.md ------ Project info and Documentation
 
 Scraper.md ------ Info about the web scraper setup
 
-Website.md ------ Info about the website portion
+Databases.md ------ Info about the website portion and Databases
 
 WebsiteDemoVideo.md ------ Video presentation of databases
 
