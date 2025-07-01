@@ -1,4 +1,4 @@
-**DEMO VIDEO**
+**WEBSITE DEMO VIDEO**
 
 Demo video showcasing the first version of the multi-chain database translucent.trade
 
