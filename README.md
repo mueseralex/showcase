@@ -17,6 +17,8 @@ WebsiteDemoVideo.md ------ Video presentation of databases
 
 The trading databases are for the purpose of finding traders to track or copy trade accross multiple blockchain networks and launchpads. With the help of stats for traders on-chain, it now becomes more efficient to find insiders and profitable traders to follow. 
 
+The website/databases have a paywall, require discord auth, generate custom user sessions, refresh data for users given access via discord
+
 ===============================================
 
 **NETWORKS**
