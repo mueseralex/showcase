@@ -3,21 +3,13 @@
 
 ===============================================
 
-README.md 
+README.md ------ Project info and Documentation
 
-    |___ Project info and Documentation
+Scraper.md ------ Info about the web scraper setup
 
-Scraper.md 
+Website.md ------ Info about the website portion
 
-    |___ Info about the web scraper setup
-
-Website.md
-
-    |___ Info about the website portion
-
-WebsiteDemoVideo.md
-
-    |____ Video presentation of databases
+WebsiteDemoVideo.md ------ Video presentation of databases
 
 ===============================================
 
