@@ -3,6 +3,17 @@
 
 ===============================================
 
+Scraper.md 
+    |___ Info about the web scraper setup
+
+Website.md
+    |___ Info about the website portion
+
+WebsiteDemoVideo.md
+    |____ Video presentation of databases
+
+===============================================
+
 **GOAL**
 
 The trading databases are for the purpose of finding traders to track or copy trade accross multiple blockchain networks and launchpads. With the help of stats for traders on-chain, it now becomes more efficient to find insiders and profitable traders to follow. 
