@@ -9,8 +9,6 @@ Scrapers.md ------ Info about the web scraper setup
 
 Databases.md ------ Info about the website portion and Databases
 
-WebsiteDemoVideo.md ------ Video presentation of databases
-
 ===============================================
 
 **GOAL**
