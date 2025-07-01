@@ -16,16 +16,16 @@ Available Network Databases for Perp Traders: Hyperliquid, Solana
 **TRADER STATISTICS**
 *Below are the stats available for every trader in the database*
 
-**wallet** *the traders address on the respective blockchain*
-**unrealized_profit** *all time unrealized profit*
-**unrealized_pnl** *all time unrealized pnl percent*
-**realized_profit_7d** *weekly realized profit*
-**realized_profit_30d** *monthly realized profit*
-**total_profit** *all time profit*
-**winrate** *all time winrate percentage for tokens traded*
-**all_pnl** *all time trading pnl percent*
+**wallet** *the traders address on the respective blockchain* 
+**unrealized_profit** *all time unrealized profit* 
+**unrealized_pnl** *all time unrealized pnl percent* 
+**realized_profit_7d** *weekly realized profit* 
+**realized_profit_30d** *monthly realized profit* 
+**total_profit** *all time profit* 
+**winrate** *all time winrate percentage for tokens traded* 
+**all_pnl** *all time trading pnl percent* 
 **buy_7d** *weekly buy transactions*
-**sell_7d** *weekly sell transactions*
+**sell_7d** *weekly sell transactions* 
 **token_sold_avg_profit** *average profit per trade*
 **balance** *native balance in wallet respective to the network*
 **pnl_lt_2x_num** *number of trades with a minimum 2x gain*
