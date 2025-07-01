@@ -4,7 +4,19 @@
 
 **About**
 
+===============================================
+
+**Demo Video (v1)**
+
+https://github.com/user-attachments/assets/045414b8-2b9f-42c4-b990-3abc6ce0f708
+
+===============================================
+
+**UI**
+
 ![image](https://github.com/user-attachments/assets/6d2d65ed-4ab2-4e06-9d2c-3cced24a5d7c)
+
+===============================================
 
 ![image](https://github.com/user-attachments/assets/0f245502-2493-4ec2-99fc-654e17233b99)
 
