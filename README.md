@@ -4,12 +4,15 @@
 ===============================================
 
 Scraper.md 
+
     |___ Info about the web scraper setup
 
 Website.md
+
     |___ Info about the website portion
 
 WebsiteDemoVideo.md
+
     |____ Video presentation of databases
 
 ===============================================
