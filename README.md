@@ -3,6 +3,10 @@
 
 ===============================================
 
+README.md 
+
+    |___ Project info and Documentation
+
 Scraper.md 
 
     |___ Info about the web scraper setup
