@@ -1,6 +1,8 @@
 
 **DOCUMENTATION**
 
+===============================================
+
 **GOAL**
 
 The trading databases are for the purpose of finding traders to track or copy trade accross multiple blockchain networks and launchpads. With the help of stats for traders on-chain, it now becomes more efficient to find insiders and profitable traders to follow. 
@@ -8,6 +10,7 @@ The trading databases are for the purpose of finding traders to track or copy tr
 ===============================================
 
 **NETWORKS**
+
 *All traders are collected regardlessed of launchpad used to deploy CA*
 
 *Networks refer to blockchains where the trading data is collected from*
@@ -18,9 +21,10 @@ Available Network Databases for Coin Traders: **Solana, Tron, Ethereum, Base, Bi
 
 Available Network Databases for Perp Traders: **Hyperliquid, Solana**
 
-
+===============================================
 
 **TRADER STATISTICS**
+
 *Below are the stats available for every trader in the database* 
 
 **wallet** *the traders address on the respective blockchain* 
@@ -84,3 +88,5 @@ Available Network Databases for Perp Traders: **Hyperliquid, Solana**
 **fast_trades_percentage** *percent of trades that are "fast", considered 60 seconds or under holding time*
 
 **date_reviewed** *last time the wallet was scraped and checked*
+
+===============================================
