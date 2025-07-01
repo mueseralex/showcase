@@ -14,6 +14,7 @@ The scripts are run on Linux Virtual machines; Each network has their own runnin
 
 Analyzes first 70 traders and the top 100 most profitable traders of trending tokens of the past 1h, 6hr, 12hr, 24hr time frames daily
 
+
 ===============================================
 
 **Basic GUI Example**
