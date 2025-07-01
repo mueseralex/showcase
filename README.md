@@ -5,7 +5,7 @@
 
 README.md ------ Project info and Documentation
 
-Scraper.md ------ Info about the web scraper setup
+Scrapers.md ------ Info about the web scraper setup
 
 Databases.md ------ Info about the website portion and Databases
 
