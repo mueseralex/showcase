@@ -12,6 +12,7 @@ Avoiding rate limiting and 403s with: TLS Client, Headers, Proxy Rotations, Cook
 
 The scripts are run on Linux Virtual machines; Each network has their own running independent when scraping
 
+Analyzes first 70 traders and the top 100 most profitable traders of trending tokens of the past 1h, 6hr, 12hr, 24hr time frames daily
 ===============================================
 
 **Basic GUI Example**
