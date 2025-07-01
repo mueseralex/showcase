@@ -18,7 +18,7 @@ Used to analyze traders and tokens on Solana via a telegram bot in groupchats/ch
 
 **Wallet Finder**
 
-*Allows you to find a users trading account based on their pnl stats for a trade*
+*Allows you to find a users trading account based on their pnl stats for a trade* 
 
 ![image](https://github.com/user-attachments/assets/26ae8a24-1a9a-479a-85c2-b446a1669127)
 ![image](https://github.com/user-attachments/assets/d9ccdbb4-13c9-4690-976c-ce9524fc6d6f)
