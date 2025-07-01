@@ -8,7 +8,7 @@ Databases for traders on multiple networks and every respective launch pad.
 
 *Solana, Ethereum, BSC, Tron, Hyperliquid, Base*
 
-Includes interactive databses with custom tools, oauth for secure user logins/sessions
+Includes interactive databases with custom tools, oauth for secure user logins/sessions
 
 ===============================================
 
