@@ -12,7 +12,7 @@ Current Available Networks: Solana, Ethereum, Base, Binance Smart Chain
 Available Network Databases for Coin Traders: Solana, Tron, Ethereum, Base, Binance Smart Chain, Hyperliquid
 Available Network Databases for Perp Traders: Hyperliquid, Solana
 
-
+ 
 **TRADER STATISTICS**
 *Below are the stats available for every trader in the database*
 
