@@ -17,6 +17,7 @@ Available Network Databases for Perp Traders: Hyperliquid, Solana
 *Below are the stats available for every trader in the database*
 
 **wallet** *the traders address on the respective blockchain* 
+
 **unrealized_profit** *all time unrealized profit* 
 **unrealized_pnl** *all time unrealized pnl percent* 
 **realized_profit_7d** *weekly realized profit* 
