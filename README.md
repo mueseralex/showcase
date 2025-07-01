@@ -11,7 +11,7 @@ The trading databases are for the purpose of finding traders to track or copy tr
 
 **NETWORKS**
 
-*All traders are collected regardlessed of launchpad used to deploy CA*
+*All traders are collected regardless of launchpad used to deploy CA*
 
 *Networks refer to blockchains where the trading data is collected from*
 
