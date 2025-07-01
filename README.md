@@ -7,9 +7,11 @@ The trading databases are for the purpose of finding traders to track or copy tr
 
 **NETWORKS**
 *All traders are collected regardlessed of launchpad used to deploy CA*
+
 *Networks refer to blockchains where the trading data is collected from*
 
 Current Available Networks: Solana, Ethereum, Base, Binance Smart Chain
+
 Available Network Databases for Coin Traders: Solana, Tron, Ethereum, Base, Binance Smart Chain, Hyperliquid
 Available Network Databases for Perp Traders: Hyperliquid, Solana
 
