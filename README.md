@@ -2,7 +2,7 @@
 
 A collection of various bot implementations and automated solutions. Each project has its own detailed documentation. 90% of projects still need to be added here
 
-## Current Projects
+## Bot List
 
 ### [Telegram Solana Bot](./TelegramSolanaBot.md)
 Advanced Telegram bot for analyzing Solana traders and tokens:
