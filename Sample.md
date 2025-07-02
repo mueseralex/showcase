@@ -12,9 +12,7 @@ Below are video examples of the framework in use. These are placeholders and are
 - Creator Dashboard
 - Automated Payouts
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/7bab3bb2-9af2-4bee-84ee-740576e2e01a" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/7bab3bb2-9af2-4bee-84ee-740576e2e01a
 
 ## Payment Processing
 
@@ -23,9 +21,7 @@ Below are video examples of the framework in use. These are placeholders and are
 - Automatic Payment Detection
 - User Logging
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/f27e39b2-9649-412e-9a7d-f82eed312506" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/f27e39b2-9649-412e-9a7d-f82eed312506
 
 ## Documentation Links
 
