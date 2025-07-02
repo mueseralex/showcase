@@ -1,49 +1,59 @@
-**DATABASES**
+# Database Infrastructure
 
-===============================================
+## Overview
+Comprehensive trading databases spanning multiple networks and launchpads:
+- Solana
+- Ethereum
+- BSC
+- Tron
+- Hyperliquid
+- Base
 
-**About**
+Features secure user authentication via OAuth with custom session management.
 
-Databases for traders on multiple networks and every respective launch pad.
+## Demo
+[Watch Demo Video (v1)](https://github.com/user-attachments/assets/045414b8-2b9f-42c4-b990-3abc6ce0f708)
 
-*Solana, Ethereum, BSC, Tron, Hyperliquid, Base*
+## Interface Components
 
-Includes interactive databases with custom tools, oauth for secure user logins/sessions
+### Main Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d2d65ed-4ab2-4e06-9d2c-3cced24a5d7c" width="80%" />
+</p>
 
-===============================================
+### Advanced Filtering System
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f245502-2493-4ec2-99fc-654e17233b99" width="70%" />
+</p>
 
-**Demo Video (v1)**
+#### Filter Capabilities
+- Address searching
+- Min/Max value filtering
+- Ascending/Descending sorting
+- Column enable/disable
+- Column visibility toggle
+- Column reordering
 
-https://github.com/user-attachments/assets/045414b8-2b9f-42c4-b990-3abc6ce0f708
+### Interface Sections
 
-===============================================
+#### Upper Section Features
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d5217c5-0cfb-4f48-a59e-9dea386672fb" width="70%" />
+</p>
 
-**UI**
+- Table refresh functionality
+- Wallet highlighting tools
+- Filter window access
+- Custom color palette
+- Blockchain explorer hyperlinks
+- Pagination controls
 
-![image](https://github.com/user-attachments/assets/6d2d65ed-4ab2-4e06-9d2c-3cced24a5d7c)
+#### Lower Section Features
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb6952f8-28c6-4947-88fa-9e4d361bc0cf" width="70%" />
+</p>
 
-===============================================
-
-**Filters**
-
-*Address searching, Min, Max, Asc, Desc, Enable, Disable, Hide, Rearrange Columns*
-
-![image](https://github.com/user-attachments/assets/0f245502-2493-4ec2-99fc-654e17233b99)
-
-===============================================
-
-**Lower Portion**
-
-*Tracks highlighted wallets, Allows for wallet labels, List exporting, Column information*
-
-![image](https://github.com/user-attachments/assets/bb6952f8-28c6-4947-88fa-9e4d361bc0cf)
-
-===============================================
-
-**Upper Portion**
-
-*Refresh table button, Highlighter button, Filter window, Color Pallete, Hyperlinks for blockchain explorers, Pages*
-
-![image](https://github.com/user-attachments/assets/4d5217c5-0cfb-4f48-a59e-9dea386672fb)
-
-===============================================
+- Highlighted wallet tracking
+- Custom wallet labeling
+- List export functionality
+- Detailed column information
