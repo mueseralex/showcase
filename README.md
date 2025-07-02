@@ -1,12 +1,22 @@
+# Project Showcase Repository
 
-**The projects have been seperated into their own exclusive branches.**
+## Overview
+This repository serves as a portfolio of various projects, each maintained in its dedicated branch. While some projects' source code is available for review, certain components remain private to protect sensitive endpoints and personal APIs.
 
-*Examples showcasing projects I've created. Message me to collaborate or for a projects code. Not all projects have available code to keep endpoints & personal apis hidden.*
+## Project Branches
 
-**Showcase Branches**
+### 🌐 [Blockchain-Trading-Databases](../../tree/Blockchain-Trading-Databases)
+Advanced trading analytics and database infrastructure for blockchain networks.
 
-Blockchain-Trading-Databases
+### 🤖 [Telegram-Framework](../../tree/Telegram-Framework)
+Comprehensive framework for building and deploying Telegram bots.
 
-Telegram-Framework
+### 🔧 [Random-Bots](../../tree/Random-Bots)
+Collection of various automated solutions and bot implementations.
 
-Random-Bots
+## Collaboration
+Interested in collaboration or need access to specific project code? Feel free to reach out!
+
+---
+
+> **Note**: Some projects may have limited code availability to protect private APIs and endpoints. Please inquire about specific access requirements.
