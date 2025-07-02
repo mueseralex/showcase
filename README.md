@@ -15,7 +15,7 @@ Comprehensive framework for building and deploying.
 Collection of various automated solutions and bot implementations.
 
 ## Collaboration
-Interested in collaboration or need access to specific project code? Feel free to reach out!
+Interested in collaboration or need access to specific project code dm me
 
 ---
 
