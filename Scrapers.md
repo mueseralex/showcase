@@ -6,6 +6,7 @@ The trading data collection infrastructure operates across multiple virtual mach
 
 ## Flow
 
+```mermaid
 graph LR
     subgraph "API Sources"
         A1[Trading APIs]
@@ -46,6 +47,7 @@ graph LR
     style C2 fill:#bfb,stroke:#333,stroke-width:2px
     style C3 fill:#bfb,stroke:#333,stroke-width:2px
     style D fill:#fbb,stroke:#333,stroke-width:2px
+```
 
 ### Key Features
 - Dual endpoint architecture per wallet:
