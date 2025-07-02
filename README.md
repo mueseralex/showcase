@@ -1,1 +1,38 @@
 **DOCUMENTATION**
+
+'''
+  graph LR
+      %% Core flow with exact spacing
+      User[user] -->|all users non-paid<br/>bot interactions| InitBot[initialize bot]
+      InitBot --> Welcome[welcome<br/>message]
+      Welcome --> Buttons[buttons]
+      
+      %% Payment and wallet check flow
+      Buttons --> PayNow[pay now]
+      PayNow --> WalletCheck[checks if a wallet<br/>is link]
+      WalletCheck -->|yes| PayDash[payment<br/>dashboard]
+      PayDash --> WebhookListen[webhook listens<br/>for payment]
+      WebhookListen --> PayStatus[full payment]
+      PayStatus --> PaidStatus[user is granted<br/>paid status]
+      WebhookListen --> PartialStatus[partial or none]
+      PartialStatus --> PayDash
+      
+      %% Wallet management
+      WalletCheck -->|no| LinkWallet[link wallet]
+      Buttons --> LinkWallet
+      LinkWallet --> Add[add]
+      LinkWallet --> Remove[remove]
+      
+      %% Referral system
+      Buttons --> Referrals[referrals]
+      Referrals --> ChangeWallet[change payout<br/>wallet]
+      Referrals --> CreatorDash[creator<br/>dashboard]
+      Referrals --> CreateRef[create referral<br/>link]
+      
+      %% Styling
+      classDef default fill:#fff,stroke:#000,stroke-width:2px,color:#000
+      classDef start fill:#fff,stroke:#000,stroke-width:2px,color:#000
+      classDef success fill:#fff,stroke:#000,stroke-width:2px,color:#000
+      
+      class User,InitBot,Welcome,Buttons,PayNow,WalletCheck,PayDash,WebhookListen,PayStatus,PaidStatus,PartialStatus,LinkWallet,Add,Remove,Referrals,ChangeWallet,CreatorDash,CreateRef default
+'''
