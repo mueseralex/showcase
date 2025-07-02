@@ -1,6 +1,6 @@
 # Random Bots Collection
 
-A collection of various bot implementations and automated solutions. Each project has its own detailed documentation.
+A collection of various bot implementations and automated solutions. Each project has its own detailed documentation. 90% of projects still need to be added here
 
 ## Current Projects
 
