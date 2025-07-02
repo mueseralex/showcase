@@ -23,7 +23,7 @@ Features secure user authentication via OAuth with custom session management.
 
 ### Advanced Filtering System
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0f245502-2493-4ec2-99fc-654e17233b99" width="70%" />
+  <img src="https://github.com/user-attachments/assets/0f245502-2493-4ec2-99fc-654e17233b99" width="30%" />
 </p>
 
 #### Filter Capabilities
