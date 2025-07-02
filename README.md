@@ -47,6 +47,33 @@ graph LR
     class User,InitBot,Welcome,Buttons,PayNow,WalletCheck,PayDash,WebhookListen,PayStatus,PaidStatus,PartialStatus,LinkWallet,Add,Remove,Referrals,ChangeWallet,CreatorDash,CreateRef default
 ```
 
+## Paid Users Bot Interactions
+
+```mermaid
+graph LR
+    %% Core flow with exact spacing
+    User[user] -->|paid user bot<br/>interactions| InitBot[initialize bot]
+    InitBot --> Welcome[welcome<br/>message]
+    Welcome --> Buttons[buttons]
+    
+    %% Website access flow
+    Buttons --> WebAccess[website access]
+    WebAccess --> CustomLink[custom link with<br/>unique token is<br/>generated]
+    CustomLink --> Login[login to website]
+    
+    %% Referral system
+    Buttons --> Referrals[referrals]
+    Referrals --> ChangeWallet[change payout<br/>wallet]
+    Referrals --> CreatorDash[creator<br/>dashboard]
+    Referrals --> CreateRef[create referral<br/>link]
+    
+    %% Styling
+    classDef default fill:#fff,stroke:#000,stroke-width:2px,color:#000
+    classDef start fill:#fff,stroke:#000,stroke-width:2px,color:#000
+    
+    class User,InitBot,Welcome,Buttons,WebAccess,CustomLink,Login,Referrals,ChangeWallet,CreatorDash,CreateRef default
+```
+
 ## Documentation
 
 *Documentation coming soon*
