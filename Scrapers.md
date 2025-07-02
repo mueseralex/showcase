@@ -4,6 +4,49 @@
 
 The trading data collection infrastructure operates across multiple virtual machines, utilizing official API providers and diverse trading terminal request headers.
 
+## Flow
+
+graph LR
+    subgraph "API Sources"
+        A1[Trading APIs]
+        A2[Market Data]
+        A3[Chain Data]
+    end
+
+    subgraph "Network VMs"
+        B1[Ethereum VM]
+        B2[Solana VM]
+        B3[Base VM]
+        B4[Tron VM]
+        B5[BSC VM]
+    end
+
+    subgraph "Processing"
+        C1[Git Database]
+        C2[Data Validation]
+        C3[Stats Processing]
+    end
+
+    A1 & A2 & A3 --> B1 & B2 & B3 & B4 & B5
+    B1 & B2 & B3 & B4 & B5 --> C1
+    C1 --> C2 --> C3
+    C3 --> D[Website Interface]
+
+    style A1 fill:#f9f,stroke:#333,stroke-width:2px
+    style A2 fill:#f9f,stroke:#333,stroke-width:2px
+    style A3 fill:#f9f,stroke:#333,stroke-width:2px
+    
+    style B1 fill:#bbf,stroke:#333,stroke-width:2px
+    style B2 fill:#bbf,stroke:#333,stroke-width:2px
+    style B3 fill:#bbf,stroke:#333,stroke-width:2px
+    style B4 fill:#bbf,stroke:#333,stroke-width:2px
+    style B5 fill:#bbf,stroke:#333,stroke-width:2px
+    
+    style C1 fill:#bfb,stroke:#333,stroke-width:2px
+    style C2 fill:#bfb,stroke:#333,stroke-width:2px
+    style C3 fill:#bfb,stroke:#333,stroke-width:2px
+    style D fill:#fbb,stroke:#333,stroke-width:2px
+
 ### Key Features
 - Dual endpoint architecture per wallet:
   - General statistics collection
