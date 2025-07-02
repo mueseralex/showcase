@@ -18,7 +18,7 @@ Sample PNL Cards for reference:
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
   <img src="https://github.com/user-attachments/assets/26ae8a24-1a9a-479a-85c2-b446a1669127" width="32%" />
-  <img src="https://github.com/user-attachments/assets/d9ccdbb4-13c9-4690-976c-ce9d24fc6d6f" width="32%" />
+  <img src="https://github.com/user-attachments/assets/1b521e99-9a15-4e73-af02-5d571bbd26be" width="32%" />
   <img src="https://github.com/user-attachments/assets/1d74c295-72fa-4d04-858b-b19d4c5de937" width="32%" />
 </div>
 
