@@ -9,7 +9,41 @@ Comprehensive trading databases spanning multiple networks and launchpads:
 - Hyperliquid
 - Base
 
-Features secure user authentication via OAuth with custom session management.
+## Website Flow 
+
+```mermaid
+graph LR
+    subgraph "Entry Point"
+        A[User] --> B[Landing Page]
+        B --> C1[Discord Login]
+        B --> C2[Join Discord]
+        B --> C3[Follow X/Twitter]
+    end
+
+    subgraph "Authentication"
+        C1 --> D[Payment Status Check]
+        D -->|Not Paid| E[Unpaid Status]
+        D -->|Paid| F[Paid Status]
+    end
+
+    subgraph "Access"
+        F --> G[Create OAuth Session]
+        G --> H[Website Access]
+        E --> |Return to| B
+    end
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px,color:black
+    style B fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style C1 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style C2 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style C3 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style D fill:#fbb,stroke:#333,stroke-width:2px,color:black
+    style E fill:#fbb,stroke:#333,stroke-width:2px,color:black
+    style F fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style G fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style H fill:#f9f,stroke:#333,stroke-width:2px,color:black
+```
+
 
 ## Demo
 [Watch Demo Video (v1)](https://github.com/user-attachments/assets/045414b8-2b9f-42c4-b990-3abc6ce0f708)
