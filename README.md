@@ -2,7 +2,7 @@
 
 ## About
 
-This is Telegram Framework centered around a bot that interacts with users via direct messages. The goal is to provide creators with a framework that handles payments, users, referrals, and private website sessions.
+THE FRAMEWORK PACKAGE IS STILL BEING UPLOADED. This is Telegram Framework centered around a bot that interacts with users via direct messages. The goal is to provide creators with a framework that handles payments, users, referrals, and private website sessions.
 
 ## Branch Info
 
