@@ -6,7 +6,12 @@ This is Telegram Framework centered around a bot that interacts with users via d
 
 ## Branch Info
 
-*Documentation coming soon*
+### Repository Structure
+
+- [📄 README.md](README.md) - Main documentation and framework overview
+- [📦 Framework/](Framework/) - Core package for creators to implement the bot framework
+- [📝 Installation.md](Installation.md) - Step-by-step installation guide
+- [🎬 Sample.md](Sample.md) - Example implementations and demos
 
 ## Non-Paid Users Bot Interactions
 
