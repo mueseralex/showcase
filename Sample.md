@@ -11,9 +11,9 @@ Custom creator Links
 Creator Dashboard
 Payouts
 
+https://github.com/user-attachments/assets/7bab3bb2-9af2-4bee-84ee-740576e2e01a
 
 
-https://github.com/user-attachments/assets/e804cd63-b536-48bb-8ea6-b6484ba837a4
 
 
 
