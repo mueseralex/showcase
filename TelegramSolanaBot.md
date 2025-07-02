@@ -1,39 +1,30 @@
-**TELEGRAM SOLANA BOT**
+# Telegram Solana Bot
 
-===============================================
+A powerful Telegram bot for analyzing traders and tokens on Solana in group chats and channels.
 
-**ABOUT**
+## Features
 
-Used to analyze traders and tokens on Solana via a telegram bot in groupchats/channels
+### Top Holders
+Analyzes top holders of the requested contract address, including hyperlinks for easy tracking.
 
-===============================================
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7034986-7a0d-4dec-af88-c5dcae18a34f" width="60%" />
+</p>
 
-**Top Holders**
+### Wallet Finder
+Find a user's trading account based on their PNL stats for a trade.
 
-*Analyzes top holders of the requested ca, includes hyperlinks*
+Sample PNL Cards for reference:
 
-![image](https://github.com/user-attachments/assets/e7034986-7a0d-4dec-af88-c5dcae18a34f)
-
-===============================================
-
-**Wallet Finder**
-
-*Allows you to find a users trading account based on their pnl stats for a trade* 
-
-*Sample PNL Card for refrence*
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/26ae8a24-1a9a-479a-85c2-b446a1669127" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d9ccdbb4-13c9-4690-976c-ce9d24fc6d6f" width="30%" />
-  <img src="https://github.com/user-attachments/assets/1d74c295-72fa-4d04-858b-b19d4c5de937" width="30%" />
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <img src="https://github.com/user-attachments/assets/26ae8a24-1a9a-479a-85c2-b446a1669127" width="32%" />
+  <img src="https://github.com/user-attachments/assets/d9ccdbb4-13c9-4690-976c-ce9d24fc6d6f" width="32%" />
+  <img src="https://github.com/user-attachments/assets/1d74c295-72fa-4d04-858b-b19d4c5de937" width="32%" />
 </div>
 
-===============================================
+### Wallet Insights
+Provides quick insights on a trader's actions and performance.
 
-**Wallet Insights**
-
-*Provides quick insights on a traders actions*
-
-![image](https://github.com/user-attachments/assets/3f002f9a-0dec-4657-9808-7dc85e69b99a)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f002f9a-0dec-4657-9808-7dc85e69b99a" width="60%" />
+</p>
