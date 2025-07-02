@@ -8,7 +8,6 @@ A collection of various bot implementations and automated solutions. Each projec
 Advanced Telegram bot for analyzing Solana traders and tokens:
 - Top holder analysis
 - Wallet tracking and insights
-- Multi-chain support
 - PNL statistics
 
 ## Note
