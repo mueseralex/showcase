@@ -33,20 +33,20 @@ graph LR
     C1 --> C2 --> C3
     C3 --> D[Website Interface]
 
-    style A1 fill:#f9f,stroke:#333,stroke-width:2px
-    style A2 fill:#f9f,stroke:#333,stroke-width:2px
-    style A3 fill:#f9f,stroke:#333,stroke-width:2px
+    style A1 fill:#f9f,stroke:#333,stroke-width:2px,color:black
+    style A2 fill:#f9f,stroke:#333,stroke-width:2px,color:black
+    style A3 fill:#f9f,stroke:#333,stroke-width:2px,color:black
     
-    style B1 fill:#bbf,stroke:#333,stroke-width:2px
-    style B2 fill:#bbf,stroke:#333,stroke-width:2px
-    style B3 fill:#bbf,stroke:#333,stroke-width:2px
-    style B4 fill:#bbf,stroke:#333,stroke-width:2px
-    style B5 fill:#bbf,stroke:#333,stroke-width:2px
+    style B1 fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style B2 fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style B3 fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style B4 fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style B5 fill:#bbf,stroke:#333,stroke-width:2px,color:black
     
-    style C1 fill:#bfb,stroke:#333,stroke-width:2px
-    style C2 fill:#bfb,stroke:#333,stroke-width:2px
-    style C3 fill:#bfb,stroke:#333,stroke-width:2px
-    style D fill:#fbb,stroke:#333,stroke-width:2px
+    style C1 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style C2 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style C3 fill:#bfb,stroke:#333,stroke-width:2px,color:black
+    style D fill:#fbb,stroke:#333,stroke-width:2px,color:black
 ```
 
 ### Key Features
