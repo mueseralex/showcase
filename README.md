@@ -9,7 +9,7 @@ This repository serves as a portfolio of various projects, each maintained in it
 Advanced trading analytics and database infrastructure for blockchain networks.
 
 ### 🤖 [Telegram-Framework](../../tree/Telegram-Framework)
-Comprehensive framework for building and deploying Telegram bots.
+Comprehensive framework for building and deploying.
 
 ### 🔧 [Random-Bots](../../tree/Random-Bots)
 Collection of various automated solutions and bot implementations.
