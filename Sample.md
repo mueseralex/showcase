@@ -49,6 +49,6 @@ https://user-images.githubusercontent.com/f27e39b2-9649-412e-9a7d-f82eed312506
 
 ## Documentation Links
 
-- [Full Documentation](../README.md#documentation)
-- [Non-Paid User Flow]([[../README.md#non-paid-users-bot-interactions](https://github.com/mueseralex/showcase/tree/Telegram-Framework#non-paid-users-bot-interactions))
-- [Paid User Flow](../README.md#paid-users-bot-interactions)
+- [Full Documentation](../../README.md#documentation)
+- [Non-Paid User Flow](../../README.md#non-paid-users-bot-interactions)
+- [Paid User Flow](../../README.md#paid-users-bot-interactions)
